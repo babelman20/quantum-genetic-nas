@@ -33,7 +33,7 @@ This project implements a custom **Quantum Genetic Algorithm (QGA)** for **autom
 Each chromosome encodes:
 - Up to **4 convolutional layers** (filters, kernel size, activation, pooling, batch norm)
 - Up to **4 dense layers** (neurons, activation, dropout)
-- Designed to explore a **search space of thousands of unique CNN topologies**
+- Designed to explore a **search space of over 73 quadrillion unique CNN topologies**
 
 ---
 
@@ -101,9 +101,4 @@ This project showcases a **novel hybrid algorithm** that combines:
 - Theoretical CS concepts (quantum computing, genetic algorithms)
 - Deep learning engineering (Keras model composition)
 - Automated model design (AutoML / NAS)
-
-It’s ideal for:
-- Employers evaluating ML optimization skills
-- Research or startup teams looking into AutoML
-- Anyone exploring advanced metaheuristic search strategies
 
